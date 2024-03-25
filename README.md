@@ -12,11 +12,9 @@ Passions: [Photography, Travels, Boardgames]
 -----------------------------------------------------------------------------------------------------------------------------
 
 You Can Findme:
+-----------------------------------------------------------------------------------------------------------------------------
 [![Linkedin: Óscar Gómez Díez](https://img.shields.io/badge/-Oscargomezdiez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/oscar-gomez-diez/))](https://www.linkedin.com/in/oscar-gomez-diez/)
 
-
-
-**OscarDev83/OscarDev83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
