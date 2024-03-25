@@ -1,6 +1,6 @@
 ![Oscar Gomez Diez](https://res.cloudinary.com/dhypugjp3/image/upload/v1711327380/cabecera-github_tnmezr.jpg)
 
-### Hi I'm Óscar <img src="[https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif](https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif)" width="50">
+### Hi I'm Óscar 👋​
 
 const Oscar ={
 pronouns: "he" | "him",
