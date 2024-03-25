@@ -1,6 +1,8 @@
 -->![Oscar Gomez Diez](https://res.cloudinary.com/dhypugjp3/image/upload/v1711329091/czpqfr7cvlk1tfmteeau.jpg)
 
-### Hi I'm Óscar 🙋🏻‍♂️​
+<h1 align="center">Hi 🙋🏻‍♂️, I'm Óscar Gómez Díez</h1>
+<h3 align="center">A passionate frontend developer from Madrid, Spain</h3>
+
 ```javascript
 const Oscar ={
 pronouns: "he" | "him",
