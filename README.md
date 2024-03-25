@@ -1,4 +1,4 @@
-![Oscar Gomez Diez](https://res.cloudinary.com/dhypugjp3/image/upload/v1711327380/cabecera-github_tnmezr.jpg)
+![Oscar Gomez Diez](https://res.cloudinary.com/dhypugjp3/image/upload/v1711329091/czpqfr7cvlk1tfmteeau.jpg)
 
 ### Hi I'm Óscar 👋​
 ```javascript
