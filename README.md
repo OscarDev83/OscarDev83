@@ -1,4 +1,4 @@
--->![Oscar Gomez Diez](https://res.cloudinary.com/dhypugjp3/image/upload/v1711329091/czpqfr7cvlk1tfmteeau.jpg)
+![Oscar Gomez Diez](https://res.cloudinary.com/dhypugjp3/image/upload/v1711329091/czpqfr7cvlk1tfmteeau.jpg)
 
 <h1 align="center">Hi 🙋🏻‍♂️, I'm Óscar Gómez Díez</h1>
 <h3 align="center">A passionate frontend developer from Madrid, Spain</h3>
