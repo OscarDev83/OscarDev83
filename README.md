@@ -1,13 +1,14 @@
 ![Oscar Gomez Diez](https://res.cloudinary.com/dhypugjp3/image/upload/v1711327380/cabecera-github_tnmezr.jpg)
 
 ### Hi I'm Óscar 👋​
-
+```javascript
 const Oscar ={
 pronouns: "he" | "him",
 code : [Javascript, HTML5, CSS],
 Tools: [ React, Bootstrap, Node.js, Mongodb],
 Passions: [Photography, Travels, Boardgames]
 }
+```
 -----------------------------------------------------------------------------------------------------------------------------
 
 You Can Findme:
